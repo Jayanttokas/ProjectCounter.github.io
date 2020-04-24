@@ -10,4 +10,4 @@ Anything You want to update you can create a pull request and I can look over an
 <br>
 <br>
 <br>
-<h2>Check the BackgroundChanger here </h2>   Click the link in the description or <a href = "https://jayanttokas.github.io/ProjectCounter.github.io//"> click here </a>
+<h2>see the Counter here </h2>   Click the link in the description or <a href = "https://jayanttokas.github.io/ProjectCounter.github.io//"> click here </a>
